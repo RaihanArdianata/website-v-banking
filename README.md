@@ -17,4 +17,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Source Image App
 
-<img src="./Screenshot%20(5).png" width="600" height="500" />
+<img src="./Screenshot%20(5).png" width="600" height="300" />
